@@ -8,7 +8,7 @@ Before you begin, you need to install the following tools:
 - Yarn ([v1](https://classic.yarnpkg.com/en/docs/install/) or [v2+](https://yarnpkg.com/getting-started/install))
 - [Git](https://git-scm.com/downloads)
 
-# Challenge 2: Token Vendor
+# Challenge 3: Dice Game
 
 This repo is a **Yarn workspaces monorepo**:
 
